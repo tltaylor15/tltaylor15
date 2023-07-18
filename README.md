@@ -10,7 +10,9 @@
 
 <h2>👨‍💻 Design Projects:</h2>
 
+<h2> - Certifications </h2>
 
+- credly.com/users/terrytaylor
 
 <!--
 **tltaylor15/tltaylor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
