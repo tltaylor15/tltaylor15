@@ -12,7 +12,7 @@
 
 <h2> Certifications </h2>
 
-- credly.com/users/terrytaylor
+- [Credly Account](https://www.credly.com/users/terrytaylor)
 
 •	ISC2: 
 - CISSP
