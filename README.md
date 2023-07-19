@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Drawings and Diagrams:</h2>
 
-<h2> Certifications </h2>
+<h2>📜 Certifications </h2>
 
 - [Credly Account](https://www.credly.com/users/terrytaylor)
 
