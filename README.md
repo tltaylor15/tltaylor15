@@ -2,13 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-
-<h2>👨‍💻 Design Projects:</h2>
+<h2>👨‍💻 Drawings and Diagrams:</h2>
 
 <h2> Certifications </h2>
 
@@ -43,7 +39,33 @@
   -  HP ProLiant Server
   -  CompTIA: Server+
 
+<h2>🥷 Skills </h2>
 
+- Scripting and Programming: PowerShell, Python, Bash, KQL, JSON, YAML, VSCODE, Git
+- Cloud and Virtualization: Azure, GCC High, Microsoft 365, VMWare
+- Infrastructure as Code: Terraform, SaltStack, Azure Resource Manager
+- Observability: Azure Monitoring, Sentinel, Azure Automation Runbooks, Logic Apps, Functions
+- Cybersecurity Frameworks: NIST 800-53, NIST 800-171, CMMC, FedRAMP
+- Networking Fundamentals: Cloud and on-prem network design
+- Process Building, Project Management, and Visio diagram drawing
+
+
+<h2>👨‍💻 Courses:</h2>
+
+- Managing Microsoft Azure Applications and Infrastructure with Terraform (Cloud Guru)
+- Advanced Terraform with Azure (Cloud Guru)
+- AZ-305: Designing Microsoft Azure Infrastructure Solutions – (Cloud Guru)
+- AZ-700 Designing and Implementing Azure Networking
+- 100 Days of Code: The Complete Python Pro Bootcamp – Angela Yu (Udemy)
+- CISSP Cert Prep – Mike Chapple (LinkedIn Learning)
+- Linux Administration: The Complete Linux Bootcamp – Andrei Dumitrescu (Udemy)
+- AZ-104 Microsoft Azure Administrator Exam Certification – Scott Duffy (Udemy)
+- Introduction to Windows PowerShell 5.1 – Paul Hill, (Udemy)
+
+<h2>🕮 Books:</h2>
+- Learn PowerShell in a Month of Lunches by Donald Jones, Jeffrey Hicks
+- CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle by Mike Chapple, James Michael Stewart, Darril Gibson, David Seidl
+- Eleventh Hour CISSP®: Study Guide by Eric Conrad, Seth Misenar, Joshua Feldman
 
 
 <!--
