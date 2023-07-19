@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terry! <br/><a href="https://github.com/tltaylor15">Programmer</a>, <a href="https://www.linkedin.com/in/tltaylor15/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Terry! <br/><a href="https://github.com/tltaylor15">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/tltaylor15/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -63,10 +63,10 @@
 - Introduction to Windows PowerShell 5.1 – Paul Hill, (Udemy)
 
 <h2>🕮 Books:</h2>
-- Learn PowerShell in a Month of Lunches by Donald Jones, Jeffrey Hicks
-- CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle by Mike Chapple, James Michael Stewart, Darril Gibson, David Seidl
-- Eleventh Hour CISSP®: Study Guide by Eric Conrad, Seth Misenar, Joshua Feldman
 
+- Learn PowerShell in a Month of Lunches - Donald Jones, Jeffrey Hicks
+- CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle - Mike Chapple, James Michael Stewart
+- Eleventh Hour CISSP®: Study Guide - Eric Conrad, Seth Misenar, Joshua Feldman
 
 <!--
 **tltaylor15/tltaylor15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
