@@ -8,7 +8,6 @@
 **** COMING SOON ****
 <h2>📜 Certifications </h2>
 
-- [Credly Account](https://www.credly.com/users/terrytaylor)
 
 •	ISC2: 
 - CISSP
