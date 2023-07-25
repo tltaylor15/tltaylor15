@@ -22,7 +22,7 @@
   -  Azure Network Engineer Associate (AZ-700)
   -  Azure Administrator Associate (AZ-104)
   -  M365 Security Administrator Associate (MS-500)
-  -  Security Operations Analyst Associate (SC-200) In Progress
+  -  Security Operations Analyst Associate (SC-200)
 - Fundamentals:
   -  Security, Compliance, and Identity Fundamentals (SC-900)
   -  Azure Fundamentals (AZ-900)
