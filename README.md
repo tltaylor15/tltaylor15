@@ -1,11 +1,11 @@
 <h1>Hi, I'm Terry! <br/><a href="https://github.com/tltaylor15">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/tltaylor15/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+**** COMING SOON ****
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+**** COMING SOON ****
 <h2>👨‍💻 Drawings and Diagrams:</h2>
-
+**** COMING SOON ****
 <h2>📜 Certifications </h2>
 
 - [Credly Account](https://www.credly.com/users/terrytaylor)
