@@ -21,7 +21,7 @@
   -  Microsoft Certified: Identity and Access Administrator Associate (SC-300)
   -  Azure Network Engineer Associate (AZ-700)
   -  Azure Administrator Associate (AZ-104)
-  -  M365 Security Administrator Asociate (MS-500)
+  -  M365 Security Administrator Associate (MS-500)
   -  Security Operations Analyst Associate (SC-200)
 - Fundamentals:
   -  Security, Compliance, and Identity Fundamentals (SC-900)
