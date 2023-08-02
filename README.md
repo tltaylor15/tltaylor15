@@ -6,7 +6,7 @@
 **** COMING SOON ****
 <h2>👨‍💻 Drawings and Diagrams:</h2>
 **** COMING SOON ****
-<h2>📜 Certifications </h2>
+<h2>📜 Certifications</h2>
 
 
 •	ISC2: 
